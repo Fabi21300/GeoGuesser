@@ -1,0 +1,14 @@
+.right-side {
+    float: right;
+}
+
+a {
+    font-size: 40px;
+}
+
+header {
+    border: ridge;
+    border-color: black;
+    border-width: 10px;
+    background-color:  gray;
+}
